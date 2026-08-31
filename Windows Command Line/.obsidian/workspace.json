@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "e68ac8939226cecd",
+    "id": "d13cc42db5b50a11",
     "type": "split",
     "children": [
       {
-        "id": "3d922586b305cd36",
+        "id": "c051fce4beda9ea7",
         "type": "tabs",
         "children": [
           {
-            "id": "7323fabc46be739b",
+            "id": "356a3f94f74c55d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber-Sec/Windows Command Line/Network Troubleshooting.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Troubleshooting"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "ba58134c1e384c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Command Line.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Command Line"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9a3b979ac3b2423a",
+    "id": "c978fdb773153c68",
     "type": "split",
     "children": [
       {
-        "id": "6f3835058354fd15",
+        "id": "eb575d8f14f550a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1c0093abab8334",
+            "id": "349dfa0c223d7512",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +65,7 @@
             }
           },
           {
-            "id": "34b1b6e25148975c",
+            "id": "d85ec3ed9d01d948",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +82,7 @@
             }
           },
           {
-            "id": "a8b8f7474e461519",
+            "id": "5767ba250ffb3085",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +101,20 @@
     "width": 300
   },
   "right": {
-    "id": "f13bd1464fd103ae",
+    "id": "cd40269543750642",
     "type": "split",
     "children": [
       {
-        "id": "7831d5401f9df5e1",
+        "id": "db0b085f9a1512c4",
         "type": "tabs",
         "children": [
           {
-            "id": "3d38cc6d380b2c4b",
+            "id": "00ecf109c8f4d1da",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber-Sec/Windows Command Line/Network Troubleshooting.md",
+                "file": "Windows Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +128,12 @@
             }
           },
           {
-            "id": "c61b0677abcf9f3b",
+            "id": "a27a90e68825ddf8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber-Sec/Windows Command Line/Network Troubleshooting.md",
+                "file": "Windows Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +142,7 @@
             }
           },
           {
-            "id": "16f7370856d30d1a",
+            "id": "0c1539c8177c69ce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +157,7 @@
             }
           },
           {
-            "id": "039180438b86a6b9",
+            "id": "c5983726c8a2e284",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +171,12 @@
             }
           },
           {
-            "id": "61ab07680ca7c12d",
+            "id": "0bad4618f6f90719",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber-Sec/Windows Command Line/Network Troubleshooting.md",
+                "file": "Windows Command Line.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,18 +203,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7323fabc46be739b",
+  "active": "ba58134c1e384c56",
   "lastOpenFiles": [
-    "Windows Command Line/Network Troubleshooting.md",
-    "Windows Command Line/File and Disk Managment.md",
-    "Windows Command Line",
-    "Pasted image 20260831050200.png",
-    "Pasted image 20260831050130.png",
-    "Pasted image 20260831050102.png",
-    "Pasted image 20260831045125.png",
-    "Pasted image 20260831043358.png",
-    "Cyber-Sec/Windows Command Line/File and Disk Managment.md",
-    "Untitled.md",
-    "Cyber-Sec/Windows Command Line/Network Troubleshooting.md"
+    "Pasted image 20260831041057.png",
+    "Welcome.md",
+    "Windows Command Line.md"
   ]
 }

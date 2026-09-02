@@ -15,7 +15,8 @@ Run the `systeminfo` command to list various information about the system such
 
 
 Another valuable tool for troubleshooting is tracert, which stands for trace route. The command tracert target_name traces the network route traversed to reach the target. Without getting into more details, it expects the routers on the path to notify us if they drop a packet because its time-to-live (TTL) has reached zero. The terminal output below shows that we passed through 15 routers before reaching our target.
-           ![](../../../Attacments/Pasted%20image%2020260902154605.png)
+
+![](../../../Attacments/Pasted%20image%2020260902154605.png)
 
 One networking command worth knowing is nslookup. It looks up a host or domain and returns its IP address. The syntax nslookup example.com will look up example.com using the default name server; however, nslookup example.com 1.1.1.1 will use the name server one.one.one.one
 ![](../../../Attacments/Pasted%20image%2020260902154751.png)

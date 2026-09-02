@@ -1,3 +1,7 @@
+
+![](../../../Attacments/Pasted%20image%2020260902155123.png)
+
+
 Note that you can use the following options with dir:
 les in the cur
 dir /a - Displays hidden and system files as well.
@@ -15,9 +19,10 @@ The copy command allows you to copy files from one location to another. The foll
 
 
 Similarly, you can move files using the move command. An example is shown in the terminal output below.
-	        ![[Pasted image 20260831050130.png]]
+
+
+![](../../../Attacments/Pasted%20image%2020260902155216.png)
 
 
 
-
-![[Pasted image 20260831050200.png]]
+![](../../../Attacments/Pasted%20image%2020260902155241.png)

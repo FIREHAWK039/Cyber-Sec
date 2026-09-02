@@ -6,25 +6,18 @@ If this is the first time you initiate an SSH connection from the AttackBox to a
 2. To connect to the target VM, issue the command `ssh user@MACHINE_IP` as `user` is the username in this case.
 3. Because this is your first time connecting to this target VM, you will be asked to trust this connection. Answer with **yes** as marked with 3.
 4. Enter your password `Tryhackme123!`. Please note that the password will not appear as you type it. 
-                                             
-            ![[Pasted image 20260831041408.png]]
+5.             ![[Pasted image 20260901050539.png]]
 
 
+Use the `ver` command to determine the operating system (OS) version
 
-use the `ver` command to determine the operating system (OS) version
+![[Attacments/Pasted image 20260902133957.png]]
 
-
-
-
-
-
- run the `systeminfo` command to list various information about the system such as OS information, system details, processor and memory.
-
+Run the `systeminfo` command to list various information about the system such as OS information, system details, processor and memory.
 
 
 Another valuable tool for troubleshooting is tracert, which stands for trace route. The command tracert target_name traces the network route traversed to reach the target. Without getting into more details, it expects the routers on the path to notify us if they drop a packet because its time-to-live (TTL) has reached zero. The terminal output below shows that we passed through 15 routers before reaching our target.
-             ![[Pasted image 20260831043358.png]]
-
+      ![[Pasted image 20260901050653.png]]
 
 
 One networking command worth knowing is nslookup. It looks up a host or domain and returns its IP address. The syntax nslookup example.com will look up example.com using the default name server; however, nslookup example.com 1.1.1.1 will use the name server one.one.one.one

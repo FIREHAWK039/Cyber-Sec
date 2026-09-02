@@ -13,6 +13,8 @@ Use the `ver` command to determine the operating system (OS) version
 
 ![[Attacments/Pasted image 20260902133957.png]]
 
+![](Attacments/Pasted%20image%2020260902134558.png)
+
 Run the `systeminfo` command to list various information about the system such as OS information, system details, processor and memory.
 
 

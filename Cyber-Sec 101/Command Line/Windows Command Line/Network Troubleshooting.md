@@ -1,3 +1,6 @@
+
+![](Attacments/Pasted%20image%2020260902134847.png)
+
 #### Establishing an SSH Connection from the AttackBox
 
 If this is the first time you initiate an SSH connection from the AttackBox to a target system, the steps are shown in the screenshot below, and they are the following:
@@ -6,12 +9,12 @@ If this is the first time you initiate an SSH connection from the AttackBox to a
 2. To connect to the target VM, issue the command `ssh user@MACHINE_IP` as `user` is the username in this case.
 3. Because this is your first time connecting to this target VM, you will be asked to trust this connection. Answer with **yes** as marked with 3.
 4. Enter your password `Tryhackme123!`. Please note that the password will not appear as you type it. 
-5.             ![[Pasted image 20260901050539.png]]
+5.             
 
 
 Use the `ver` command to determine the operating system (OS) version
 
-![[Attacments/Pasted image 20260902133957.png]]
+
 
 ![](Attacments/Pasted%20image%2020260902134558.png)
 

@@ -3,6 +3,8 @@
 
 #### Establishing an SSH Connection from the AttackBox
 
+![](../../../Attacments/Pasted%20image%2020260902135014.png)
+
 If this is the first time you initiate an SSH connection from the AttackBox to a target system, the steps are shown in the screenshot below, and they are the following:
 
 1. Start the AttackBox’s terminal by clicking the terminal icon marked with 1.

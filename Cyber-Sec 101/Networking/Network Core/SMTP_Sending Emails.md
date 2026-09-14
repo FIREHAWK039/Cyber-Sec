@@ -14,3 +14,6 @@ The terminal below shows an example of an email sent via telnet. The SMTP server
 ![](../../../Attacments/Pasted%20image%2020260912200335.png)
 
 ![](../../../Attacments/Pasted%20image%2020260912200348.png)
+
+
+

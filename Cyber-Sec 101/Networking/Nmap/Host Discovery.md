@@ -1,4 +1,3 @@
-Let’s start with the first question: who is online? This task aims to find out how to use Nmap to discover the live hosts. Nmap uses various sophisticated ways to discover live hosts.
 
 Before we start, we should mention that Nmap uses multiple ways to specify its targets:
 

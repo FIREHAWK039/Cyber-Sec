@@ -4,7 +4,7 @@ Conditional Statements in Action
 
 One of the most used conditional statements is the `if-else` statements, which allows you to execute different blocks of code depending on whether a condition evaluates to `true` or `false`.
 
-To test this practically, let's create a file `age.html` on the Desktop of the attached VM and paste the following code:
+Create a file `age.html` on the Desktop of the attached VM and paste the following code:
 
 ```javascript
 <!DOCTYPE html>
@@ -34,12 +34,12 @@ Double-click the file to open it in Google Chrome. You will see the following im
 
 In the above code, a prompt will ask for your age. If your age is greater than or equal to 18, it will display a message saying, "`You are an adult.`" Otherwise, it will show a different message. This behaviour is controlled by the if-else statement, which checks the value of the age variable and displays the appropriate message based on the condition.
 
-Bypassing Login Forms
+## Bypassing Login Forms
 
 Suppose a developer has implemented authentication functionality in JS, where only users with the username "`admin`" and passwords matching a specific value are allowed to log in. To see this in action, open the `login.html` file in the exercises folder.  
 
 ![location of login.html in exercise folder](https://cdn-images.tryhackme.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/62a7685ca6e7ce005d3f3afe-1728804039133.png)  
 
-When you double-click the file and open it in your browser, it will prompt you for a username and password. If the correct credentials are entered, it will display a message confirming that you are logged in, as shown below:
+When you double-click the file and open it in your browser, it will prompt you for a username and password. If the correct credentials are entered, it will display a message confirming that you are logged in
 
 ![output of login.html in Chrome](https://cdn-images.tryhackme.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/62a7685ca6e7ce005d3f3afe-1728803945443.png)

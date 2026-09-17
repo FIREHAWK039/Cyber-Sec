@@ -39,7 +39,7 @@ Click `OK` to close the alert dialogue box. Right-click anywhere on the page and
 
 Obfuscation in Action
 
-Now, we will try to minify and obfuscate the JS code using an online tool. Visit the [website (opens in new tab)](https://codebeautify.org/javascript-obfuscator)and copy the contents of `hello.js`, and paste them into the dialogue box on the website. The tool will minify and obfuscate the code, turning it into a string of gibberish characters shown below:
+Now, we will try to minify and obfuscate the JS code using an online tool. The tool will minify and obfuscate the code, turning it into a string of gibberish characters shown below:
 
 ![JS Obfuscator online website](https://cdn-images.tryhackme.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/62a7685ca6e7ce005d3f3afe-1728812285853.png)  
 
@@ -70,7 +70,7 @@ function hi(){var _0x48257e=_0x33bf,_0xab1127={'xMVHQ':function(_0x4eefa0,_0x4e5
 
   
 
-Click the `Copy to Clipboard` (highlighted as **2** in the above image) button as shown on the website. Then, remove the current content of `hello.js` on the attached VM and paste the obfuscated content into the file.
+Click the `Copy to Clipboard` button as shown on the website. Then, remove the current content of `hello.js` on the attached VM and paste the obfuscated content into the file.
 
 Reload the `hello.html` file in Google Chrome and inspect the source code again under the `Sources` tab. You will notice that the code is now obfuscated but still functions exactly the same as before.
 
@@ -78,7 +78,7 @@ Reload the `hello.html` file in Google Chrome and inspect the source code again 
 
 Deobfuscating a Code
 
-We can also deobfuscate an obfuscated code using an online tool. Visit the [website(opens in new tab)](https://obf-io.deobfuscate.io/), then paste the obfuscated code into the provided dialogue box. The website will generate the equivalent, human-readable JS code for you, making it easier to understand and analyze the original script.
+We can also deobfuscate an obfuscated code using an online tool.  then paste the obfuscated code into the provided dialogue box. The website will generate the equivalent, human-readable JS code for you, making it easier to understand and analyze the original script.
 
 ![Deobfuscating a code using online website](https://cdn-images.tryhackme.com/user-uploads/62a7685ca6e7ce005d3f3afe/room-content/62a7685ca6e7ce005d3f3afe-1728813246997.png)  
 
